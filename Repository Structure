@@ -1,0 +1,15 @@
+einstein-minds/
+├─ package.json
+├─ tailwind.config.js
+├─ postcss.config.js
+├─ public/
+│    ├─ index.html
+│    └─ favicon.ico
+├─ src/
+│    ├─ index.js
+│    ├─ index.css
+│    ├─ EinsteinMindsLanding.js
+│    └─ StripeButton.js
+├─ api/
+│    └─ create-checkout-session.js
+└─ README.md
